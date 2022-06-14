@@ -19,74 +19,9 @@
             <td colspan="1">стандартный вывод или output.txt</td>
          </tr>
       </tbody></table>
-<tbody><tr class="time-limit">
-            <td class="property-title">Ограничение времени</td>
-            <td>2&nbsp;секунды</td>
-         </tr>
-         <tr class="memory-limit">
-            <td class="property-title">Ограничение памяти</td>
-            <td>256Mb</td>
-         </tr>
-         <tr class="input-file">
-            <td class="property-title">Ввод</td>
-            <td colspan="1">стандартный ввод или input.txt</td>
-         </tr>
-         <tr class="output-file">
-            <td class="property-title">Вывод</td>
-            <td colspan="1">стандартный вывод или output.txt</td>
-         </tr>
-      </tbody>
-<tr class="time-limit">
-            <td class="property-title">Ограничение времени</td>
-            <td>2&nbsp;секунды</td>
-         </tr>
-<tr class="memory-limit">
-            <td class="property-title">Ограничение памяти</td>
-            <td>256Mb</td>
-         </tr>
-<tr class="input-file">
-            <td class="property-title">Ввод</td>
-            <td colspan="1">стандартный ввод или input.txt</td>
-         </tr>
-<tr class="output-file">
-            <td class="property-title">Вывод</td>
-            <td colspan="1">стандартный вывод или output.txt</td>
-         </tr>
-<tbody><tr class="time-limit">
-            <td class="property-title">Ограничение времени</td>
-            <td>2&nbsp;секунды</td>
-         </tr>
-         <tr class="memory-limit">
-            <td class="property-title">Ограничение памяти</td>
-            <td>256Mb</td>
-         </tr>
-         <tr class="input-file">
-            <td class="property-title">Ввод</td>
-            <td colspan="1">стандартный ввод или input.txt</td>
-         </tr>
-         <tr class="output-file">
-            <td class="property-title">Вывод</td>
-            <td colspan="1">стандартный вывод или output.txt</td>
-         </tr>
-      </tbody>
-<table>
-         <tbody><tr class="time-limit">
-            <td class="property-title">Ограничение времени</td>
-            <td>2&nbsp;секунды</td>
-         </tr>
-         <tr class="memory-limit">
-            <td class="property-title">Ограничение памяти</td>
-            <td>256Mb</td>
-         </tr>
-         <tr class="input-file">
-            <td class="property-title">Ввод</td>
-            <td colspan="1">стандартный ввод или input.txt</td>
-         </tr>
-         <tr class="output-file">
-            <td class="property-title">Вывод</td>
-            <td colspan="1">стандартный вывод или output.txt</td>
-         </tr>
-      </tbody></table>
+
+
+
 
 ##  Описание
 <p>Юный программист Василий на каникулах решил подработать. В силу своего возраста он смог стать только курьером. Компания, в которой он теперь работает, находится на прямой улице бесконечной длины. Суть работы Василия — разносить еду пёсикам по всем домам, находящимся на этой улице.
